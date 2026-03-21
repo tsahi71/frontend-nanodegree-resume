@@ -114,8 +114,10 @@ a {
   background-color: #4A4A4A;
 }
 
-/* TODO: Replace with image later */
 #header {
+  background-image: url('../images/fry.jpg');
+  background-size: cover;
+  background-position: center;
   background-color: #484848;
 }
 
